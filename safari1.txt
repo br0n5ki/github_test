@@ -1,2 +1,3 @@
 Das ist ein erstes File, dass in Safari aus iOS geschrieben wurde
 Und jetzto wird in WC weitergschrieben - passt, oder?
+Na ja, wie man es nimmt - in WC muss halt der Push erlaubt werden. Dann klappt es auch...
